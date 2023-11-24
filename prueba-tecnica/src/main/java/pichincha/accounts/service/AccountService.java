@@ -1,7 +1,7 @@
 // src/main/java/com/pichincha/accounts/service/AccountService.java
-package com.pichincha.accounts.service;
+package pichincha.accounts.service;
 
-import com.pichincha.accounts.model.Account;
+import pichincha.accounts.model.Account;
 
 public interface AccountService {
     Account getAccountById(Long accountId);

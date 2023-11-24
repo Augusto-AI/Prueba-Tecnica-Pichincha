@@ -1,5 +1,5 @@
 // src/main/java/com/pichincha/accounts/model/Transaction.java
-package com.pichincha.accounts.model;
+package pichincha.accounts.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

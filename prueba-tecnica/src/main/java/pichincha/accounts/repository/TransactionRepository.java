@@ -1,7 +1,7 @@
 // src/main/java/com/pichincha/accounts/repository/TransactionRepository.java
-package com.pichincha.accounts.repository;
+package pichincha.accounts.repository;
 
-import com.pichincha.accounts.model.Transaction;
+import pichincha.accounts.model.Transaction;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TransactionRepository extends JpaRepository<Transaction, Long> {
